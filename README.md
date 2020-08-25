@@ -19,4 +19,3 @@ Each row will have a different **colour** depending on it's status:
 - Queued: **Red**
 
 # Preview
-![](preview.png)
