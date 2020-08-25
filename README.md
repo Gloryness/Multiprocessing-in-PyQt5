@@ -1,6 +1,6 @@
 # Multiprocessing in PyQt5
  Use this program to test how many threads can run at once while doing the same tasks.
- 
+
 # How To Use
 This project was pretty fun to make, as you can mess around and see how much QThreadPool can handle in PyQt5.
 To start with, there are **10 counters**, and all are idle until you presss Start. Stop will cancel that counter, and Reset will reset the counter back to its original number.
@@ -17,3 +17,6 @@ Each row will have a different **colour** depending on it's status:
 - Active: **Green**
 - Inactive: **Black**
 - Queued: **Red**
+
+# Preview
+![](preview.png)
