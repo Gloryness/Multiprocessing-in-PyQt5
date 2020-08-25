@@ -9,7 +9,7 @@ In the **Edit** MenuBar, you can see  a **Config** setting which you can configu
 
 You may be wondering, what are these **'counters'**, well they are organized very neatly and each have their own Start, Stop and Reset option next to them.
 They also will show what they will count up to and the current number they're at.
-For example: **Process 1 (0-2500):**, **Process 2 (2500-5000)**, **Process 3 (5000-7500)** and etc.
+For example: **Process 1 (0-2500)**, **Process 2 (2500-5000)**, **Process 3 (5000-7500)** and etc.
 
 Nothing much is happening inbetween each count, only a small `time.sleep(0.005)`. You can configure this by editting the **multiprocessing.py file** and going to **line 298** to configure what will happen inbetween each task.
 
